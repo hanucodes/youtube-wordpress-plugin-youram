@@ -1,0 +1,9 @@
+{
+    "apiVersion": 2,
+    "title": "YouTube Gallery (YouRam)",
+    "name": "youram/instance-selector-block",
+    "category": "embed",
+    "icon": "video-alt3",
+    "editorScript": "file:./block.js",
+	"editorStyle": "file:./block-editor.css"
+}

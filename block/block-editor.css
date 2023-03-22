@@ -1,0 +1,46 @@
+/* green background */
+.wp-block-youram-instance-selector-block {
+    background: #ffecb3;
+    color: #232323;
+    padding: 20px;
+    font-family: inherit;
+    font-size: 0.9em;
+}
+
+/*.editor-block-list-item-youram-instance-selector-block>span:first-child {
+    background-color: #c1d6c1 !important;
+}*/
+
+.editor-block-list-item-youram-instance-selector-block span.dashicon {
+    color: #ee106c !important;
+    font-size: 2em;
+    margin-left: -0.2em;
+}
+
+.youram-block-holder {
+    display: inline-block;
+}
+
+span.youram-block-instance-name {
+    display: inline-block;
+    float: left;
+    margin-right: 1em;
+}
+
+select.youram-block-instance-select {
+    min-width: 14em;
+}
+
+select.youram-block-instance-select:focus {
+    background: inherit;
+}
+
+h5.youram-block-instance-title {
+    margin: 0;
+    margin-bottom: 0.2em !important;
+}
+
+a.youram-block-instance-editlink {
+    font-weight: 500;
+    color: #f83c3c !important;
+}   
